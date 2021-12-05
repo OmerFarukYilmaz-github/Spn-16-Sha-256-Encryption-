@@ -1,0 +1,10 @@
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\bin\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\bin\Debug\SPN-16 Sifreleme.pdb
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN-16 Sifreleme.csprojAssemblyReference.cache
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN_16_Sifreleme.Form1.resources
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN_16_Sifreleme.Properties.Resources.resources
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN-16 Sifreleme.csproj.GenerateResource.cache
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN-16 Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\SPN-16 Sifreleme\SPN-16 Sifreleme\obj\Debug\SPN-16 Sifreleme.pdb
